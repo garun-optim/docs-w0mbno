@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-n4oico.trans88.biz/sitemap.xml
